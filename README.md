@@ -1,4 +1,5 @@
-<a href="https://www.shapesync.org/"><h1>ShapeSync</h1></a>
+<h1>ShapeSync</h1>
+<h5>Check it out <a href="https://www.shapesync.org/">here</a>!
 <p>A Mobile App for all gym enthusiast individuals who are gym members and want to keep track of their daily workouts and exercises</p>
 <p>As a User of this app you can:
   <ul>
